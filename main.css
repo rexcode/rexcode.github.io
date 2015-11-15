@@ -13,7 +13,7 @@ body{
 	font-family: Lato;
 	/*font-style: italic;*/
 	/*background: #EFEBEB;*/
-	opacity: 0.85;
+	opacity: 0.75;
 }
 .container{
 	margin: 0 auto;
@@ -31,4 +31,7 @@ h1{
 }
 hr{
 	border-top: 1px solid #999;
+}
+.footer a, .footer span {
+	color: #eee;
 }
