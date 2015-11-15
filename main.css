@@ -1,0 +1,14 @@
+body{
+	background: url('https://source.unsplash.com/BeIvjuz6k2k/1600x900');
+	background: url('https://source.unsplash.com/Z7JQDDiz3_8/1600x900');
+	color: #ddd;
+	/*margin: 0 auto;*/
+}
+.container{
+	margin: 0 auto;
+}
+#accordion{
+	margin: 0 auto;
+	width: 600px;
+	background-color: #bbb;
+}
